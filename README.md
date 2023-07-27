@@ -8,7 +8,7 @@ This is a React app that generates a random password based on user-selected crit
 3. User can copy the generated password to their clipboard
 
 ## Live Demo
-[Click here]() to see the live demo of this app.
+[Click here](https://mohitur-password.netlify.app/) to see the live demo of this app.
 
 ## Run Locally
 1. Clone this repository
